@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "if_xdp.h": "c",
+        "common_params.h": "c",
+        "common_defines.h": "c",
+        "libbpf.h": "c"
+    }
+}
